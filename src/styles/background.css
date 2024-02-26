@@ -1,0 +1,9 @@
+.bg {
+    background-color: #ffffff;
+    min-height: 900px;
+    max-width: 100%;
+    
+
+    box-sizing:content-box;
+    
+}
